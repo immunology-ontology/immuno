@@ -6,14 +6,16 @@ ImmunO is a new project intended to become an [OBO Foundry](http://obofoundry.or
 
 Following OBO Foundry principles, ImmunO will import existing terms from a number of ontologies:
 
-- CL: Cell Ontology
-- PR: Protein Ontology
-- GO: Gene Ontology
-- ChEBI: Chemical Entities of Biological Interest
-- MRO: MHC Restriction Ontology
-- DO: Human Disease Ontology
-- UBERON: Uber Anatomy Ontology
-- OGMS: Ontology for General Medical Science
+- [CL: Cell Ontology](http://obofoundry.org/ontology/cl.html)
+- [PR: Protein Ontology](http://obofoundry.org/ontology/go.html)
+- [GO: Gene Ontology](http://obofoundry.org/ontology/pr.html)
+- [ChEBI: Chemical Entities of Biological Interest](http://obofoundry.org/ontology/chebi.html)
+- [MRO: MHC Restriction Ontology](http://obofoundry.org/ontology/mro.html)
+- [DO: Human Disease Ontology](http://obofoundry.org/ontology/doid.html)
+- [IDO: Infectious Disease Ontology](http://obofoundry.org/ontology/ido.html)
+- [UBERON: Uber Anatomy Ontology](http://obofoundry.org/ontology/uberon.html)
+- [OGMS: Ontology for General Medical Science](http://obofoundry.org/ontology/ogms.html)
+- [VO: Vaccine Ontology](http://obofoundry.org/ontology/vo.html)
 - exposure ontologies
 
 ImmunO will mint new terms and adopt existing terms that are immunology-specific, such as:
